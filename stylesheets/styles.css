@@ -73,7 +73,7 @@ h3 {
 
 h4, h5, h6 {
 	font-family: Arvo, Monaco, serif;
-	font-weight: 700;
+	font-weight: normal;
 }
 
 a {
@@ -145,9 +145,12 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 650px;
-  padding: 5px;
+  padding-right: 15px;
+  /*
+padding: 5px;
   margin: 10px 0 32px 0;
   border: 1px solid #ccc;
+*/
 }
 
 
