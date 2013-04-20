@@ -264,12 +264,12 @@ header li {
 	padding: 6px 6px 6px 7px;
 
 	background: #f7a3e7;
-	background: -moz-linear-gradient(top, #f7a3e7 0%, #fd3ed7 100%);
+	background: -moz-linear-gradient(top, #e895d9 0%, #dc86cb 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fabbf3), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #f7a3e7 0%, #fd3ed7 100%);
-  background: -o-linear-gradient(top, #f7a3e7 0%, #fd3ed7 100%);
-  background: -ms-linear-gradient(top, #f7a3e7 0%, #fd3ed7 100%);
-  background: linear-gradient(top, #f7a3e7 0%, #fd3ed7 100%);
+  background: -webkit-linear-gradient(top, #e895d9 0%, #dc86cb 100%);
+  background: -o-linear-gradient(top, #e895d9 0%, #dc86cb 100%);
+  background: -ms-linear-gradient(top, #e895d9 0%, #dc86cb 100%);
+  background: linear-gradient(top, #e895d9 0%, #dc86cb 100%);
 
 	border-radius:4px;
   border:1px solid #0D0D0D;
