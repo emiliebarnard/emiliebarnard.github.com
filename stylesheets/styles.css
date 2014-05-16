@@ -317,7 +317,7 @@ a.buttons:hover {
 
 section {
   width:650px;
-  position: fixed;
+  /* position: fixed */;
   left: 425px;
   float:right;
   padding-bottom:50px;
